@@ -9,10 +9,10 @@ I'm a passionate QA Engineer and Software Testing Enthusiast with hands-on exper
 * Database Knowledge: SQL (including real-time project implementation)
 * Other Skills: OCR integration, Browser Testing, Grid Setup, Jenkins CI/CD
 # Current Focus
-*Building projects that combine database knowledge with QA workflows, particularly for real-world scenarios such as travel management.
-*Enhancing my communication skills and contributing to open-source testing projects.
+* Building projects that combine database knowledge with QA workflows, particularly for real-world scenarios such as travel management.
+* Enhancing my communication skills and contributing to open-source testing projects.
 # Contact Me
-*Email: [gopalparab154@gmail.com]
+* Email: [gopalparab154@gmail.com]
 
 
 
